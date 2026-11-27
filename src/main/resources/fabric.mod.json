@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "saoui",
+  "version": "${version}",
+  "name": "SAO UI",
+  "description": "Sword Art Online style HUD: slanted player HP bar, mob cursors & HP bars, multi-segment boss bars, polygon shatter death effect and SAO-style menu.",
+  "authors": ["SAO UI"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.saoui.SaoUiMod"],
+    "client": ["com.saoui.SaoUiClient"]
+  },
+  "mixins": ["saoui.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

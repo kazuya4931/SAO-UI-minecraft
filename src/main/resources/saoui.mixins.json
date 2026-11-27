@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.saoui.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ServerPlayerEntityMixin",
+    "LivingEntityMixin"
+  ],
+  "client": [
+    "InGameHudMixin",
+    "BossBarHudAccessor",
+    "EntityRenderDispatcherMixin",
+    "MinecraftClientMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

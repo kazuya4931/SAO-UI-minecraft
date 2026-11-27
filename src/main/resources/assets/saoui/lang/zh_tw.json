@@ -1,0 +1,22 @@
+{
+  "saoui.menu.title": "主選單",
+  "saoui.menu.resume": "返回",
+  "saoui.menu.resume.desc": "回到戰場",
+  "saoui.menu.items": "道具",
+  "saoui.menu.items.desc": "物品欄與裝備",
+  "saoui.menu.quests": "任務",
+  "saoui.menu.quests.desc": "進度",
+  "saoui.menu.stats": "狀態",
+  "saoui.menu.stats.desc": "玩家統計",
+  "saoui.menu.lan": "隊伍",
+  "saoui.menu.lan.desc": "對區域網路開放",
+  "saoui.menu.friends": "好友",
+  "saoui.menu.friends.desc": "社交互動",
+  "saoui.menu.options": "設定",
+  "saoui.menu.options.desc": "遊戲選項",
+  "saoui.menu.vanilla": "系統",
+  "saoui.menu.vanilla.desc": "原版遊戲選單",
+  "saoui.menu.logout": "登出",
+  "saoui.menu.logout.desc": "離開這個世界",
+  "saoui.confirm.logout": "確定要登出嗎？"
+}

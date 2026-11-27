@@ -1,0 +1,22 @@
+{
+  "saoui.menu.title": "Main Menu",
+  "saoui.menu.resume": "Resume",
+  "saoui.menu.resume.desc": "Return to the battlefield",
+  "saoui.menu.items": "Items",
+  "saoui.menu.items.desc": "Inventory & equipment",
+  "saoui.menu.quests": "Quests",
+  "saoui.menu.quests.desc": "Advancements",
+  "saoui.menu.stats": "Status",
+  "saoui.menu.stats.desc": "Player statistics",
+  "saoui.menu.lan": "Party",
+  "saoui.menu.lan.desc": "Open to LAN",
+  "saoui.menu.friends": "Friends",
+  "saoui.menu.friends.desc": "Social interactions",
+  "saoui.menu.options": "Settings",
+  "saoui.menu.options.desc": "Game options",
+  "saoui.menu.vanilla": "System",
+  "saoui.menu.vanilla.desc": "Original game menu",
+  "saoui.menu.logout": "Logout",
+  "saoui.menu.logout.desc": "Leave this world",
+  "saoui.confirm.logout": "Are you sure you want to log out?"
+}
