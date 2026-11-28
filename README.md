@@ -42,7 +42,7 @@
 
 3. Find the compiled mod JAR in:
    ```text
-   build/libs/sao-ui-1.21.4-2.jar
+   build/libs/sao-ui
    ```
    Copy it (not the `-dev.jar`) into your Minecraft `mods/` folder.
 
