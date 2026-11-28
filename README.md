@@ -1,7 +1,7 @@
 # SAO UI (Minecraft 1.21.4 Fabric Mod)
 
-A Sword Art Online inspired HUD, menu, and RPG leveling mod for Minecraft Java Edition (`1.21.4`, Fabric).
-
+- A Sword Art Online inspired HUD, menu, and RPG leveling mod for Minecraft Java Edition (`1.21.4`, Fabric).
+- If you just want to play this mode, download the file named "sao-ui-< version >", and make sure the version is the one that you want to play .
 ## Features
 
 - **SAO Player HUD**: Slanted health bar with smooth damage tracking, level display, and SAO-style layout.
